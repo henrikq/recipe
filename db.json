@@ -4,9 +4,54 @@
       "title": "Pizza dough",
       "ingredients": [
         {
-          "amount": 178.4,
+          "amount": 178,
           "unit": "g",
           "name": "flour"
+        },
+        {
+          "amount": 116,
+          "unit": "ml",
+          "name": "water"
+        },
+        {
+          "amount": 5.4,
+          "unit": "g",
+          "name": "salt"
+        },
+        {
+          "amount": 0.4,
+          "unit": "g",
+          "name": "yeast"
+        }
+      ]
+    },
+    "2": {
+      "title": "Bread",
+      "ingredients": [
+        {
+          "amount": 400,
+          "unit": "g",
+          "name": "fine whole wheat flour"
+        },
+        {
+          "amount": 500,
+          "unit": "g",
+          "name": "all-purpose flour"
+        },
+        {
+          "amount": 650,
+          "unit": "ml",
+          "name": "water"
+        },
+        {
+          "amount": 19,
+          "unit": "g",
+          "name": "salt"
+        },
+        {
+          "amount": 100,
+          "unit": "g",
+          "name": "starter"
         }
       ]
     }

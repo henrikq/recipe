@@ -24,7 +24,7 @@
 				the user hovers over the link or taps it, instead of
 				waiting for the 'click' event -->
     <li>
-      <a rel="prefetch" href="blog/{recipe.slug}">{recipe.title}</a>
+      <a rel="prefetch" href="recipe/{recipe.id}">{recipe.title}</a>
     </li>
   {/each}
   {#if error}{error}{/if}
